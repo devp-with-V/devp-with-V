@@ -1,18 +1,19 @@
-# 👋 Hi, I'm Vedant Tendulkar
+# 👋 Hi, I'm Vedant Tendulkar- 
+https://vedantportiflio.vercel.app/
 
-**Cloud Computing & AI Enthusiast** | **B.Tech CSE (Cloud Computing & Automation)** @ VIT Bhopal
+**Cloud Computing & AI Enthusiast** | **B.Tech CSE (Cloud Computing & Automation)** Third Year student @VIT Bhopal
 
-[![Email](https://img.shields.io/badge/Email-Vedant02ms%40gmail.com-red?style=flat&logo=gmail)](mailto:Vedant02ms@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-Vedant02ms%40gmail.com-red?style=flat&logo=gmail)](mailto:vedant02ms@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/vedant-tendulkar-b2231b28a/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/devp-with-V)
 
 ## 🛠️ Technical Skills
 
 **Programming Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Cloud & DevOps**  
@@ -32,41 +33,43 @@
 
 ## 🚀 Featured Projects
 
-### [Secure VPN Solution on AWS](https://github.com/yourusername/vpn-project)
+### [Secure VPN Solution on AWS]
 ![AWS](https://img.shields.io/badge/AWS-EC2-orange) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)
 - Deployed personal WireGuard VPN on AWS EC2
 - Implemented network security configurations
 
-### [GPT-2 Text Generation API](https://github.com/yourusername/gpt2-project)
+### [GPT-2 Text Generation API](https://github.com/devp-with-V/Gpt2-docker-)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 - Developed GPU-accelerated text generation API
 - Containerized with Docker for NVIDIA GPU support
 
-### [AI Data Modeling Research](https://github.com/yourusername/ai-research)
+### [AI Data Modeling Research](https://github.com/devp-with-V/Ai-Generated-Data-Authentaction-and-Testing-)
 ![Python](https://img.shields.io/badge/Python-ML-yellow) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 - Exploring AI-generated data for predictive modeling
 - Multiple domain applications
+
+
+### [F(x) Scale - Image Transformation Platform](https://github.com/devp-with-V/Function_of_x_Scale)
+![Next.js](https://img.shields.io/badge/Next.js-14-black) ![Canvas API](https://img.shields.io/badge/HTML5_Canvas-111827?logo=html5&logoColor=white)
+- Client-side processing architecture for maximum privacy
+- 7+ specialized image converters (ASCII Art, Braille Art, etc.)
+- Real-time previews and multiple export formats
+- Tech: Next.js 14, Tailwind CSS, HTML5 Canvas API
+- https://function-of-x-scale.vercel.app/
+
+### [OldenDays - Retro Games](https://github.com/devp-with-V/olden-days)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Game Dev](https://img.shields.io/badge/Game_Development-FF6F00)
+- Classic arcade games (Tetris, Pac-Man) with modern UI
+- Keyboard controls and score tracking
+- Tech: Next.js 14, TypeScript, Tailwind CSS
+- https://olden-days.vercel.app/
 
 ## 📚 Education
 
 **VIT Bhopal University**  
 🎓 B.Tech in Computer Science Engineering (Cloud Computing & Automation)  
-📅 2021 - 2025 | GPA: 8.43  
+📅 2023 - 2027 | GPA: 8.43  
 📌 Specialization in Cloud Computing & Automation
-
-## 📜 Certifications
-- AWS Certified Cloud Practitioner (In Progress)
-- Complete Web Development Bootcamp (Udemy)
-- Applied Machine Learning in Python (Coursera)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 I'm always open to collaborating on interesting projects and research in cloud computing and AI!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
